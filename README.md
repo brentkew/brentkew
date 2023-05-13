@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalil Ahmad</h1>
-<h3 align="center">As an experienced web developer with 8+ years of experience, I possess strong skills in frontend and backend technologies, including MVC frameworks such as Codeigniter, Laravel, Yii, and Javascript, node, socket.io, vue, react, es6, with proficiency in version control system.</h3>
+As an experienced web developer with 8+ years of experience, I possess strong skills in frontend and backend technologies, including MVC frameworks such as Codeigniter, Laravel, Yii, and Javascript, node, socket.io, vue, react, es6, with proficiency in version control system. </br></br>
 
-- 👨‍💻 All of my projects are available at [https://khalilahmad.com/](https://khalilahmad.com/)
+👨‍💻 All of my projects are available at [https://khalilahmad.com/](https://khalilahmad.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
