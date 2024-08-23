@@ -3,6 +3,21 @@
 I am a Full Stack Web Developer with over 8 years of experience in designing, developing, and deploying responsive and scalable web applications. I have a strong background in both traditional (LAMP) and modern (MERN) technology stacks, with a passion for learning new technologies and solving complex challenges.</br></br>
 </p>
 
+<p align="center">
+    <a href="https://khalilahmad.com" target="_blank">
+        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/khalil-ahmad/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/brentkew" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:brentkew@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+</p>
+
 ## 🛠️ Tech Stack & Skills:
 - **Frontend**: React.js, Next.js, Vue.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS
 - **Backend**: Node.js, Express.js, Laravel, Codeigniter, Yii (PHP)
