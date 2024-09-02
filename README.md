@@ -60,6 +60,6 @@ I am a Full Stack Web Developer with over 8 years of experience in designing, de
 
 ## 📫 How to Reach Me:
 - **Email**: [brentkew@gmail.com](mailto:brentkew@gmail.com)
-- **LinkedIn**: [linkedin.com/in/khalil-ahmad](https://www.linkedin.com/in/khalil-ahmad/)
+- **LinkedIn**: [linkedin.com/in/k-khalilahmad](https://www.linkedin.com/in/k-khalilahmad/)
 - **GitHub**: [github.com/brentkew](https://github.com/brentkew)
 - **Personal Website**: [khalilahmad.com](https://khalilahmad.com)
